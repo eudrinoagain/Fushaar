@@ -4,24 +4,17 @@
 
 ### Fushaar is a discord bot to Search for **Movies** & **Series** on **[Fushaar.com](https://fushaar.com)**
 
-<br>
-
 ## Why not using the Fushaar.com?
 
 ### i dunno, i just like to make discord bots that do stuff for me instead xd
-
-<br>
 
 # Self Host
 
 ### To self host **Fushaar** you need to follow the steps:
 
-<br>
 # How to add the bot to my server?
 
 ## Take This: [Invite Link](1008024418078953493)
-
-<br>
 
 ## 1. Clone the repo
 
