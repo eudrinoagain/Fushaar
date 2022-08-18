@@ -2,7 +2,7 @@
 
 ## What is Fushaar?
 
-### Fushaar is a discord bot to Search for **Movies** & **Series** on **[Fushaar.com](https://fushaar.com)**
+### Fushaar is a discord bot to Search for **Movies** on **[Fushaar.com](https://fushaar.com)**
 
 ## Why not using the Fushaar.com?
 
