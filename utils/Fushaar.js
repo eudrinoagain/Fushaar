@@ -50,7 +50,7 @@ export async function getMovieData(url) {
     description: data
       .split('<div class="postz" >')[1]
       .split("<p>")[1]
-      .split("</p>")[0],
+      .split("<")[0],
     watch: data
       .split(
         'data-lazy-src="https://www.fushaar.com/assets/themes/fushaarV5/player.php?id='
