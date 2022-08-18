@@ -1,0 +1,2 @@
+# Fushaar
+Fushaar discord bot
