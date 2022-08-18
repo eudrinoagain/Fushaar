@@ -14,7 +14,7 @@
 
 # How to add the bot to my server?
 
-## Take This: [Invite Link](1008024418078953493)
+## Take This: [Invite Link](https://discord.com/api/oauth2/authorize?client_id=1008024418078953493&permissions=0&scope=bot)
 
 ## 1. Clone the repo
 
