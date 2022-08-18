@@ -159,3 +159,9 @@ botClient
     }
   })
   .login(process.env.TOKEN);
+
+import express from "express";
+// HEROKU KEEP ALIVE
+if (process.env.LISTEN) {
+  express().listen(process.env.PORT || 80);
+}
