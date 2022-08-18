@@ -1,3 +1,4 @@
+import "dotenv/config";
 import { searchMovie, getMovieData } from "../utils/Fushaar.js";
 import { decode } from "html-entities";
 import {
