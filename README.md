@@ -7,14 +7,11 @@
 ## Why not using the Fushaar.com?
 
 ### i dunno, i just like to make discord bots that do stuff for me instead xd
-
+# How to add the bot to my server?
+## Take This: [Invite Link](https://discord.com/api/oauth2/authorize?client_id=1008024418078953493&permissions=0&scope=bot)
 # Self Host
 
 ### To self host **Fushaar** you need to follow the steps:
-
-# How to add the bot to my server?
-
-## Take This: [Invite Link](https://discord.com/api/oauth2/authorize?client_id=1008024418078953493&permissions=0&scope=bot)
 
 ## 1. Clone the repo
 
